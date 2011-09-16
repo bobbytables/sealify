@@ -1,0 +1,60 @@
+                                                                                                    
+                                                                                                    
+                                                      `.--:::::-.````                               
+                                                  `-:++oooooooo++/::--..`                           
+                                               `-:/+osssyyyyssssoo++++/:::-`                        
+                                             .-/+ooosssssssssyyyyyyyyyyso+::-`                      
+                                           `:+oosssysyssssyyyhhhhyyhhhhhyyso//:`                    
+                                          `/+sysyyyyyyyyyyhhhhhhhhhhhddhhhhyso//.                   
+                                         `/osyyyyhyhyyyyhhhhhhhhhdhhdhdddhhhyyso+:`                 
+                                         -+syyyhhhhhyyyyyhhhyyyyyyhhhhhddhhhhhyyso/`                
+                                         :+syyyhhhhyyyssyyyysooooooosyhhhhhhhhhhyys+`               
+                                        `:+syhhyhyyysssssysso+//////+osyyyyyyyyyyyss/               
+                                        -:oyyyyyyyyysssssssso+//::////+osssssssyyssss.              
+                                        :++yyyyyyyyyyyssssssoo+//:////+osssssyyyyssss-              
+                                      ``//+yyyyyyyyyyyyssssoo+++///++++ossssyyyyyysss-              
+                                     `+oo:/yyyhyyyyyyysssssoo++////+++osssyyyyyyyysss.              
+                                     /sys-:syyyyyyhhhhhhyysso+o+///++++sssssyyyyyysso               
+                                    `oshh./+yhhhhhdddhhysyhddhys+++++++osyyyyyyyyyys:               
+                                    `+oos.-syhhhhddhhhhyyyhddmmmhyyyyssyhhhhhhyyyyso`               
+                                     +oys`/syyhhhdddhddhhdmmmmmmmhyyyhddmmdddhhhhhs:                
+                                     .:s/.+oyyhhhhddhhyyyhhhhhhddysyhdmdmmdddhhyyyo`                
+                                       .`/+/yhhhhhhdhysssyyhysyddysshddyysshddddhy:                 
+                                        `+oohhdddddddhhhhyysyyhhhs+ohdhyysyyhhyyys`                 
+                                       ``osyhddddddmdyoooosyhhhyys+shhhhhyyyyhhyys`                 
+                                       `.syhddddddddhyso/+hhyyyys++ydhyhhhhhhhhyyo                  
+                                       .-syhdddmddddddhhyyyyhyhhsoshdhhhyyhhhhhhy-                  
+                                      `::oyhddmmmmmmddhhhhhhyssyhhdddddhhyhhhyyy:                   
+                                      -osoyddddmmmdddmmddhhys+sysoyhhhhhdddhhyy:                    
+                                      /yhhyhdmmmmmmdhsddo/::///sssyhhddddddhhy/                     
+                                     `shdddddmmmmmmmdyoyhsoo/..+..:+yddddhhho-                      
+                                     -yhddmmmmmmmmmmddysoo//syoyyshhhyhdhhs:`                       
+                                   .`/hhddmmmmmmmmmmmddds/++/:/+osyyhhdhy/`                         
+                         ....````.//`ohdddmmmmmmmmmddddmds+/++oosyhddddy:                           
+                      .:oo/:--::/oo::ydddddmmmmmmmmddddddmmddhhyhdmdddh+                            
+                 ``.-+syo///+oooss+/shdddddmmmNNmmmmddhhhhhdddddddddddy`                            
+             `.:/osyshhho++ooooso++yddmmmddmmmmNNNNNmmdhhhhhhhhhhdmmmdy/-`                          
+        ``.:+oyhhhhhhdhhsoooooo+++ydmmmmmmmmmmmmNNNNNNmmmdddddhddmmmmdhyyo-                         
+   `.:/+osyhhdddddddhhyhso+++++osyddmmmmmmmmNNNmmNNNNNNNNNmmmmmNNmmmmmmddhy:`                       
+.-/osyhhddddmmmmmmmmddyhs++++osyhdddmmmmmmmmmNNNNNNNNNNNNNNNNNNNmmmmNmmmmmdho-`                     
+syhddmmmmmmmmmmmmmmmmmdy++++ossyhhhddmmmmmmmmNNmNmmmmmNNNNNNNNNNNNNNNNmmmmmddho-                    
+mmNmNmNmNNNNmNNmmmmmNNNds+/++oossyyhhdmddddmmNmmmmmmmmmmmNNNNNNNNNNNNNNNmmmmmddh+.                  
+NNNNNNNNNNNNNNNNNNNNNNNNNdysooossssyhdmhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmddy/.                
+NNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmNNmmmNNNyshNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmddy/`              
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmyyNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmddy/.            
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmddy/`          
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdddhs:`        
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdddhhyyo:`      
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdhs/`    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhy/`  
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdo. 
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNMNNNNNNms.
+MNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNMMMNMMNNNNNNms
+MMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMNN
+MNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNNMMMMMMMMMMMMMMMM
+MNNMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNNMMMMMMMMMMMMMMMM
+MMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNNMMMMMMMMMMMMMMMM
+NNMNMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNMNMMMMMMMMMMMMMMMM
+NMNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNNMMMMMMMMMMMMMMMN
+http://photo.sing365.com/music/picture.nsf/Seal-photo/48256C71003578A2482568950029B515/$file/seal.jpg
